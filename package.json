@@ -1,0 +1,29 @@
+{
+  "name": "email-signuppage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somyadav37/email-signuppage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somyadav37/email-signuppage/issues"
+  },
+  "homepage": "https://github.com/somyadav37/email-signuppage#readme",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mailchimp": "^1.2.1",
+    "package.json": "^2.0.1",
+    "parse": "^4.0.1",
+    "request": "^2.88.2"
+  }
+}
